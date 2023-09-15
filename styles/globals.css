@@ -1,0 +1,418 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #e7e8e8;
+  background: #070707;
+}
+#chart{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+@media (min-width: 200px) and (max-width: 300px){
+#chart{
+  width: 76%;
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tv-lightweight-charts{
+  
+
+  overflow: hidden;
+  width: 900px;
+  height: 252px;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+
+}
+}
+
+@media (min-width: 301px) and (max-width: 376px){
+  #chart{
+    width: 67%;
+    margin-top: -95px;
+    margin-left: 30px;
+    height: 67vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  }
+
+.slide img {
+  width: 700px;
+  height: 50px;
+  animation: scroll 60s linear infinite;
+}
+
+.slide-track {
+  width: 100%;
+  display: flex;
+  gap: 3em;
+  overflow: hidden;
+}
+
+.slider {
+  margin-top: 70px;
+ 
+ 
+}
+
+@keyframes scroll {
+  0% {transform: translateX(0);}
+  100% {transform: translatex(-1000%)}
+}
+
+.credit{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    padding: 7px;
+    color: black;
+    margin: 373px 30px;
+    font-family: '__thirdFont_3ea4f2';
+    border-radius: 12px;
+}
+
+.cardsmint{
+  color: black;
+}
+
+
+
+
+
+/* Add a FAQ section */
+.faqSection {
+  position: relative;
+  margin: 50px 0;
+}
+
+/* FAQ title */
+.faqTitle {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* FAQ item */
+.faqItem {
+  margin-bottom: 20px;  
+}
+
+/* FAQ question */
+.faqQuestion {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* FAQ answer */ 
+.faqAnswer {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+/* Add these styles to your CSS module (home.module.css) */
+
+/* Style for the mobile navigation button/icon */
+.mobileNavButton {
+  cursor: pointer;
+}
+
+/* Style for the navigation links */
+.navLinks {
+  display: none; /* Initially hide the links */
+}
+
+/* Style to show the links when isMobileNavOpen is true */
+.mobileNavOpen .navLinks {
+  display: flex;
+  flex-direction: column; /* Display links in a column */
+  /* Add additional styling as needed for mobile navigation */
+}
+
+
+
+@media (min-width: 350px) and (max-width: 662px) {
+  
+  #foot{
+    background:#141315;
+    padding-right:163px;
+    margin-bottom:40px;
+  }
+ #fott{
+  padding: 0 163px;
+ }
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+.Items{
+  background-image: url(../public/images/back.png);
+  background-repeat: no-repeat;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+ 
+}
+
+
+
+
+
+.slide img {
+  width: 700px;
+  height: 50px;
+  animation: scroll 60s linear infinite;
+}
+
+.slide-track {
+  width: 100%;
+  display: flex;
+  gap: 3em;
+  overflow: hidden;
+}
+
+.slider {
+  margin-top: 70px;
+ 
+ 
+}
+
+@keyframes scroll {
+  0% {transform: translateX(0);}
+  100% {transform: translatex(-1000%)}
+}
+
+
+
+@media (max-width: 965px) {
+  #homeimg {
+    display: none;
+  }
+  #homespace{
+    display:none;
+  }
+  #aboutsection{
+    flex-direction: column;
+  }
+  #aboutsecond{
+    margin: auto;
+  }
+  #abouttext{
+    width: auto;
+  }
+  #aboutdes{
+    width:auto;
+  }
+  .MuiBox-root{
+    margin: auto;
+  }
+  #discover{
+    padding: 0 0 50px 0;
+  }
+  #headiscover{
+    margin-top: 150px;
+  }
+  .slide-track{
+    width: 418vw;
+    margin-bottom: 100px;
+  }
+  .Items{
+    margin: 0;
+    background-size: contain;
+    padding-top: 182px;
+  }
+  #homehead{
+    font-size: 46px;
+  }
+  #btx{
+    background-image: url(../public//btx.png);
+    background-repeat: no-repeat;
+    width: 68vw;
+  }
+  .MuiPaper-root{
+    padding: 8px;
+    display: grid;
+    
+  }
+  #paymentpagehead{
+    padding-left: 0;
+    text-align: center;
+  }
+  #paymentpage{
+    margin: 0;
+    width: 484px;
+  }
+  #swapimg{
+    width: 15vw;
+  }
+  #profileheads{
+    text-align:center;
+    padding-left:0;
+    font-size: 50px;
+    margin-top: 50px;
+  }
+  #profilehead{
+    text-align:center;
+    padding-left:0;
+    font-size: 30px;
+  }
+  #infoimg{
+    height: auto;
+  }
+  #infolicense{
+    text-align: center;
+    padding-left: 0;
+  }
+  #stake{
+    height: auto;
+  }
+  #stakingpool{
+    font-size:33px;
+    text-align: center;
+    padding-left:0;
+    margin-top: 100px;
+  }
+
+}
+
+/* Media query for viewport widths greater than 500px */
+@media (min-width: 966px) {
+  
+  #abouttext{
+    width: 40vw;
+  }
+  #aboutdes{
+    width: 50vw;
+  }
+  #discover{
+    padding: 0 110px;
+  }
+  .Items{
+    margin: 0 105px;
+    background-size: cover;
+  }
+  #homehead{
+    font-size: 76px;
+  }
+  #btx{
+    background-image: url(../public//btx.png);
+    width: 100vw;
+  }
+  .MuiPaper-root{
+    padding: 10px;
+    
+  }
+  .Items{
+    padding-top: 350px;
+  }
+  #paymentpagehead{
+    padding-left: 100px;
+  }
+  #paymentpage{
+    margin-left: 100px;
+   
+  }
+  #swapimg{
+    width: 5vw;
+  }
+  #stakinghead{
+    font-size:76px;
+    text-align:left;
+    padding-left:76px;
+  }
+  #profileheads{
+    text-align:left;
+    padding-left:76px;
+    font-size: 70px;
+  }
+ #profilehead{
+  text-align:left;
+  padding-left:76px;
+  padding-right:76px;
+  font-size: 30px;
+ }
+ #infoimg{
+  height: 100vh;
+}
+#infolicense{
+  text-align:left;
+  padding-left:106px;
+}
+#stake{
+  height: 300px;
+}
+
+#stakingpool{
+  text-align:left;
+  padding-left:105px;
+}
+
+}
+
+
+
+.foot img{
+  width: 13%;
+}
+
+@media (min-width: 350px) and (max-width: 662px){
+  .foot img{
+    width: 30%;
+  }
+  .foots img{
+    width: 20%;
+  }
+}
+
+.foots img{
+  width: 20%;
+}

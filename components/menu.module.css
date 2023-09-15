@@ -1,0 +1,163 @@
+.unionIcon1 {
+    position: relative;
+    width: 20.31px;
+    height: 20.31px;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 96px;
+    left: 109px;
+    width: 154.98px;
+    height: 149.85px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+.home {
+    position: absolute;
+    top: 281px;
+    left: calc(50% - 190px);
+    line-height: 108px;
+    text-transform: capitalize;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 379px;
+    cursor: pointer;
+}
+.trade {
+    position: absolute;
+    top: 396px;
+    left: calc(50% - 190px);
+    line-height: 108px;
+    text-transform: capitalize;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 379px;
+    cursor: pointer;
+}
+.stake {
+    position: absolute;
+    top: 505px;
+    left: calc(50% - 190px);
+    line-height: 108px;
+    text-transform: capitalize;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 379px;
+    cursor: pointer;
+}
+.about {
+    position: absolute;
+    top: 612px;
+    left: calc(50% - 190px);
+    line-height: 108px;
+    text-transform: capitalize;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 379px;
+    cursor: pointer;
+}
+.profile {
+    position: absolute;
+    top: 720px;
+    left: calc(50% - 190px);
+    line-height: 108px;
+    text-transform: capitalize;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 379px;
+    cursor: pointer;
+}
+.menuIpadPro1291Child {
+    position: absolute;
+    top: 713px;
+    left: calc(50% - 183px);
+    background: linear-gradient(90deg, rgba(163, 107, 255, 0), #ffe500 49.48%, rgba(163, 110, 253, 0));
+    width: 365px;
+    height: 1px;
+}
+.menuIpadPro1291Item {
+    position: absolute;
+    top: 611px;
+    left: calc(50% - 183px);
+    background: linear-gradient(90deg, rgba(163, 107, 255, 0), #ffe500 49.48%, rgba(163, 110, 253, 0));
+    width: 365px;
+    height: 1px;
+}
+.menuIpadPro1291Inner {
+    position: absolute;
+    top: 503px;
+    left: calc(50% - 183px);
+    background: linear-gradient(90deg, rgba(163, 107, 255, 0), #ffe500 49.48%, rgba(163, 110, 253, 0));
+    width: 365px;
+    height: 1px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 395px;
+    left: calc(50% - 183px);
+    background: linear-gradient(90deg, rgba(163, 107, 255, 0), #ffe500 49.48%, rgba(163, 110, 253, 0));
+    width: 365px;
+    height: 1px;
+}
+.mingcutewallet4FillIcon1 {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.connectWallet {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.mingcutewallet4FillParent {
+    position: absolute;
+    top: 872px;
+    left: calc(50% - 168px);
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 12px 70px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Neue Montreal';
+}
+.materialSymbolscloseIcon1 {
+    position: absolute;
+    top: 30px;
+    left: 383px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+}
+.menuIpadPro1291 {
+    position: relative;
+    background: linear-gradient(180deg, #201d26, #1d1b20);
+    width: 430px;
+    height: 1032px;
+    
+    opacity: 0.98;
+    max-width: 100%;
+    overflow-y: auto;
+    max-height: 100%;
+    text-align: center;
+    font-size: 37px;
+    color: #1f1330;
+    font-family: 'Monument Extended';
+}
