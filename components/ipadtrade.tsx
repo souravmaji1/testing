@@ -131,23 +131,24 @@ const TradeIPadPro1292:NextPage = () => {
             						<div className={styles.mediaInquiresFor1}>Copy Right 2023 - CMax. All Rights Reserved</div>
           					</div>
           					<div className={styles.tradeParent}>
-            						<div className={styles.contactUs}>Trade</div>
-            						<div className={styles.contactUs}>Stake</div>
-            						<div className={styles.contactUs}>About</div>
-            						<div className={styles.contactUs}>Contact Us</div>
-            						<div className={styles.contactUs}>Privacy Policy</div>
-            						<div className={styles.contactUs}>{`Terms & Conditions`}</div>
+            						<div style={fourthFont.style}  className={styles.contactUs}><a href='/trade'>Trade</a></div>
+            						<div style={fourthFont.style}   className={styles.contactUs}> <a href='/stake'>Stake</a> </div>
+            						<div style={fourthFont.style}    className={styles.contactUs}><a href='/profile'>Profile</a> </div>
+            						<div style={fourthFont.style}    className={styles.contactUs}><a href='/about'>About</a></div>
+            						
           					</div>
         				</div>
       			</div>
       			<div className={styles.rectangleGroup} onClick={onGroupContainer3Click}>
         				<div className={styles.groupInner} />
+						<Link href='/mint'>
         				<div style={myFont.style}    className={styles.titaEtf}><a href='/mint'>Tita ETF</a></div>
         				<div className={styles.vectorParent}>
           					<img className={styles.vectorIcon4} alt="" src="Vector.png" />
           					<div className={styles.div}>8%</div>
         				</div>
         				<Image className={styles.frameIcon2} alt="" src={Stats} />
+						</Link>
       			</div>
       			<div className={styles.rectangleContainer} onClick={onGroupContainer4Click}>
         				<div className={styles.groupInner} />

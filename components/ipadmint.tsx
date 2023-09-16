@@ -91,8 +91,7 @@ const TradeSubpageIPadPro129:NextPage = () => {
             						<div className={styles.home}>Stake</div>
             						<div className={styles.home}>About</div>
             						<div className={styles.home}>Contact Us</div>
-            						<div className={styles.home}>Privacy Policy</div>
-            						<div className={styles.home}>{`Terms & Conditions`}</div>
+            						
           					</div>
         				</div>
       			</div>
@@ -111,8 +110,7 @@ const TradeSubpageIPadPro129:NextPage = () => {
         				<div className={styles.frameInner} />
         				<div className={styles.frameInner} />
       			</div>
-      			<img className={styles.tradeSubpageIpadPro129Child1} alt="" src="Vector 7.png" />
-      			<img className={styles.tradeSubpageIpadPro129Child2} alt="" src="Vector 6.png" />
+      			
       			<div style={myFont.style} className={styles.titaEtf}>Tita ETF</div>
       			<div className={styles.wrapper}>
         				<div style={secondFont.style}   className={styles.home}>128.68</div>

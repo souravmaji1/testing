@@ -131,7 +131,11 @@ const HomepageStake:NextPage = () => {
       			
       			</div>
       			<div style={thirdFont.style} className={styles.ourPartners}>
-			<Cmax />
+			
+				</div>
+
+				<div className={styles.staking}>
+					<Cmax />
 				</div>
 				
       			

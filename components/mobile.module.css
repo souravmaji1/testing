@@ -1062,7 +1062,7 @@
 
 
 
-@media (min-width: 3210px) and (max-width: 350px) {
+@media (min-width: 3210px) and (max-width: 326px) {
     .homeParent{
     position: inherit;
     top: 30px;
@@ -1268,6 +1268,275 @@
     mix-blend-mode: luminosity;
     }
 }
+
+
+@media (min-width: 327px) and (max-width: 350px) {
+  .ellipseParent{
+    position: absolute;
+    top: 741px;
+    left: -70px;
+    width: 430px;
+    height: 762px;
+    text-align: center;
+    font-size: 18px;
+  }
+  .groupInner{
+    position: absolute;
+    top: 0px;
+    left: 47px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 293px;
+    height: 266px;
+  }
+  .frameGroup{
+    position: absolute;
+    top: 26px;
+    left: -31.37px;
+    width: 104.75px;
+    height: 77px;
+  }
+  .seamlessFinancialInclusion1{
+    position: absolute;
+    top: 147px;
+    left: -12px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 265px;
+
+  }
+  .social{
+    margin-right: 133px;
+  }
+  .copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    left: -22px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+  }
+  .groupItem{
+    position: absolute;
+    top: 174px;
+    left: 118px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    width: 173px;
+    height: 173px;
+    opacity: 0.4;
+  }
+  .groupChild{
+    position: absolute;
+    top: 116px;
+    left: 259px;
+    border-radius: 50%;
+    background: linear-gradient(263.1deg, #bbfa09, #9efa09);
+    width: 84px;
+    height: 83px;
+    opacity: 0.3;
+  }
+  .maskGroupIcon4{
+    position: absolute;
+    bottom: 392px;
+    left: 115px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+  .tradeParent{
+    position: absolute;
+    bottom: 293px;
+    left: -27px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+  }
+  .diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: -53px;
+    padding: 0 46px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+  }
+  .joinOurCommunity1{
+    position: absolute;
+    bottom: 281px;
+    left: 21px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .groupIcon{
+    position: absolute;
+    top: 42px;
+    left: -4px;
+    width: 56.93px;
+    height: 80px;
+
+  }
+  .joinAPlatform1{
+    position: absolute;
+    top: 264px;
+    left: -16px;
+    font-size: 17px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    font-family: 'Neue Montreal';
+    color: #fff;
+    display: inline-block;
+    width: 301px;
+  }
+  .groupChild3{
+    position: absolute;
+    top: 0px;
+    left: calc(43% - 180.5px);
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 305px;
+    height: 440px;
+  }
+  .elevateYourFinancial1{
+    position: absolute;
+    top: 64px;
+    left: 0px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    padding: 0 20px;
+    display: inline-block;
+    width: 342px;
+  }
+  .tita24{
+    position: absolute;
+    top: 38px;
+    left: 19px;
+    font-size: 27px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #ffe500;
+    display: inline-block;
+    width: 181.66px;
+    height: 39px;
+  }
+  .totalTradingVolume2{
+    position: absolute;
+    top: 5px;
+    left: 20px;
+    line-height: 36px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 171.93px;
+  }
+  .cmax24{
+    position: absolute;
+    top: 38px;
+    left: 12px;
+    font-size: 27px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #0ce770;
+    display: inline-block;
+    width: 181.66px;
+    height: 39px;
+  }
+  .groupChild1{
+    position: absolute;
+    top: 0px;
+    left: -25px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, #2b2a26, rgba(43, 42, 38, 0));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 306px;
+    height: 129px;
+  }
+  .treasury{
+    position: absolute;
+    top: 1924.11px;
+    left: 31px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #fff;
+    display: inline-block;
+    width: 138.79px;
+    height: 43.48px;
+  }
+  .parent{
+    position: absolute;
+    top: 1987.59px;
+    left: 27px;
+    width: 302px;
+    height: 134px;
+    font-size: 34px;
+    color: #fff;
+  }
+  .maskGroupIcon1{
+    position: absolute;
+    top: 1895.61px;
+    left: 12px;
+    width: 303px;
+    height: 250.39px;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+  .immerseYourselfIn1{
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    padding: 0 20px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 342px;
+  }
+  .downloadOurWhite1{
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 148px);
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 332px;
+
+  }
+  .diveIntoThe1{
+    position: absolute;
+    top: 394px;
+    padding: 0 30px;
+    left: 62px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 342px;
+  }
+}
+
+
+
+
+
+
 
 @media (min-width: 351px) and (max-width: 360px) {
     .homeParent{

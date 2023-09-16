@@ -578,6 +578,106 @@
     font-family: 'Neue Montreal';
 }
 
+@media (min-width: 700px) and (max-width: 767px){
+    .homeParent{
+        position: absolute;
+    top: 60px;
+    left: 167px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 18px;
+
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 499.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 29px;
+        width: 720px;
+        height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+        top: 1636.98px;
+        left: 20px;
+        border-radius: 8px;
+        background-color: #282531;
+        width: 703px;
+        height: 449px;
+    
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 602px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 730px;
+        height: 721.62px;
+    }
+}
+
 @media (min-width: 768px) and (max-width: 800px){
     .homeParent{
         position: absolute;
@@ -634,7 +734,7 @@
     left: 20px;
     border-radius: 8px;
     background-color: #282531;
-    width: 761px;
+    width: 732px;
     height: 449px;
     }
     .frameParent{
@@ -665,13 +765,209 @@
     }
     .rectangleDiv{
         position: absolute;
-    top: 688.38px;
-    left: 12px;
-    border-radius: 11px;
-    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
-    -webkit-backdrop-filter: blur(46px);
-    backdrop-filter: blur(46px);
-    width: 774px;
-    height: 721.62px;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 748px;
+        height: 721.62px;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 900px){
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 167px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px; 
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 566.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 81px;
+    width: 720px;
+    height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+    top: 1636.98px;
+    left: 20px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 732px;
+    height: 449px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 663px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 748px;
+        height: 721.62px;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 954px){
+    .homeParent{
+        position: absolute;
+        top: 60px;
+        left: 167px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px; 
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 566.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 81px;
+    width: 720px;
+    height: 249px;
+    }
+    .polygon31b1e7a0Parent{
+        position: absolute;
+    top: 1683.98px;
+    left: 683px;
+    border-radius: 10px;
+    border: 1px solid #474353;
+    display: none;
+    flex-direction: row;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+
+    }
+    .profileIpadPro1294Child1{
+        position: absolute;
+    top: 1636.98px;
+    left: 20px;
+    border-radius: 8px;
+    background-color: #282531;
+    width: 732px;
+    height: 449px;
+    }
+    .frameParent{
+        position: absolute;
+    top: 1347px;
+    left: 76px;
+    width: 663px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .lineParent{
+        position: absolute;
+    height: 115.79%;
+    width: 93.98%;
+    top: -23.03%;
+    right: 1.91%;
+    bottom: 7.24%;
+    left: -14.88%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 688.38px;
+        left: 12px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 748px;
+        height: 721.62px;
     }
 }

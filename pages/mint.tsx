@@ -208,14 +208,16 @@ const HomepageTradeSubpage:NextPage = () => {
 				  
 
       			<div className={styles.mingcutewallet4FillParent}>
+					
         				<Image className={styles.mingcutewallet4FillIcon1} alt={Wallet} src={Wallet} />
-
+						
 						
         				<ConnectKitButton
 						customTheme={{
 							"--ck-connectbutton-background": "#fbec50",
 							"--ck-connectbutton-color": "#373737",
 						  }}
+						  
 						/>
 						
       			</div>

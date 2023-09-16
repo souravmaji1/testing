@@ -71,11 +71,11 @@ const ProfileIPadPro1294:NextPage = () => {
           					<div className={styles.copyRight20231}>Copy Right 2023 - CMax. All Rights Reserved</div>
         				</div>
         				<div className={styles.tradeParent}>
-          					<div className={styles.trade}>Trade</div>
-          					<div className={styles.trade}>Stake</div>
-          					<div className={styles.trade}>About</div>
+          					<div style={fourthFont.style}   className={styles.trade}>< a href='/trade'>Trade</a></div>
+          					<div  style={fourthFont.style}  className={styles.trade}>< a href='/stake'>Stake</a></div>
+          					<div style={fourthFont.style}className={styles.trade}> < a href='/trade'>About</a> </div>
           				
-          					<div className={styles.trade}>{`Terms & Conditions`}</div>
+          					<div style={fourthFont.style}  className={styles.trade}>< a href='/profile'>Profile</a>  </div>
         				</div>
       			</div>
       			<div className={styles.aboutParent} onClick={openMenuIPadPro1291}>

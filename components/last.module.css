@@ -297,14 +297,14 @@
 }
 .loremIpsumDolorContainer1 {
     position: absolute;
-    top: 756px;
+    top: 734px;
     left: 19px;
     font-size: 18px;
     letter-spacing: -0.02em;
     line-height: 30px;
     color: #fff;
     display: inline-block;
-    width: 392px;
+    width: 393px;
 }
 .loremIpsumDolorContainer2 {
     position: absolute;
@@ -504,7 +504,7 @@
 }
 .groupChild2 {
     position: absolute;
-    top: 4px;
+    top: 211px;
     left: 0px;
     border-radius: 50%;
     background: linear-gradient(180deg, #ffe500, #fff492);
@@ -566,9 +566,29 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.blankLines{
+    top: 40px;
+}
+.q3{
+    position: absolute;
+    top: 954px;
+    left: 22px;
+    background: linear-gradient(263.1deg, #bbfa09, #9efa09);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .distributionTokenCbcContainer {
     position: absolute;
     top: 75px;
+    left: 22px;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: 'Neue Montreal';
+}
+.distributionTokenCbcContainers {
+    position: absolute;
+    top: 997px;
     left: 22px;
     font-size: 16px;
     text-transform: capitalize;
@@ -606,7 +626,7 @@
 }
 .q2 {
     position: absolute;
-    top: 22px;
+    top: 293px;
     left: 22px;
     background: linear-gradient(263.1deg, #bbfa09, #9efa09);
     -webkit-background-clip: text;
@@ -614,7 +634,7 @@
 }
 .distributionTokenCbcContainer1 {
     position: absolute;
-    top: 71px;
+    top: 358px;
     left: 22px;
     font-size: 16px;
     text-transform: capitalize;
@@ -640,6 +660,7 @@
     width: 340px;
     height: 178px;
 }
+
 .ellipseParent4 {
     position: relative;
     width: 346px;
@@ -658,7 +679,7 @@
 }
 .distributionTokenCbcContainer3 {
     position: absolute;
-    top: 71px;
+    top: 352px;
     left: 17px;
     font-size: 16px;
     text-transform: capitalize;
@@ -723,7 +744,7 @@
     position: relative;
     background: linear-gradient(180deg, #201d26, #1d1b20);
     width: 100%;
-    height: 3810px;
+    height: 4755px;
     overflow: hidden;
     text-align: left;
     font-size: 28px;
@@ -823,6 +844,18 @@
 .groupChild9{
     position: absolute;
     top: 0px;
+    left: 0px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 276px;
+    height: 178px;
+}
+.groupChild12{
+    position: absolute;
+    top: 30px;
+    display: none;
     left: 0px;
     border-radius: 13px 83px 83px 13px;
     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
@@ -1540,166 +1573,8 @@
 
 
 
-@media (min-width: 413px) and (max-width: 444px){
-    .aboutParent{
-        position: inherit;
-        top: 30px;
-        left: auto;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: flex-end;
-        gap: 17px;
-        cursor: pointer;
-        font-size: 20px;
-    }
-    .aboutUs{
-        position: absolute;
-        top: 208px;
-        left: calc(51% - 196px);
-        font-size: 37px;
-        text-transform: capitalize;
-        font-family: 'Monument Extended';
-        background: linear-gradient(180deg, #ffe500, #fff492);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        display: inline-block;
-        width: 334px;
-    }
-    .blankLine{
-        padding-right: 41px;
-    }
-    .roadMap{
-        position: absolute;
-    top: 682px;
-    left: calc(52% - 196px);
-    text-transform: capitalize;
-    font-weight: 500;
-    display: inline-block;
-    width: 334px;
-    
-    }
-    .rectangleDiv{
-        position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 11px 83px 83px 11px;
-    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
-    -webkit-backdrop-filter: blur(46px);
-    backdrop-filter: blur(46px);
-    width: 280px;
-    height: 178px;
-    }
-    .groupChild7{
-        position: absolute;
-    top: 186px;
-    left: 280px;
-    border-radius: 83px 13px 13px 83px;
-    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
-    -webkit-backdrop-filter: blur(46px);
-    backdrop-filter: blur(46px);
-    width: 280px;
-    height: 178px;
-    transform: rotate(180deg);
-    transform-origin: 0 0;
-    }
 
-
-.groupChild5{
-    position: absolute;
-    top: 23px;
-    left: 131px;
-    border-radius: 50%;
-    background-color: #1b3530;
-    width: 134px;
-    height: 134px;
-}
-
-.groupChild6{
-    position: absolute;
-    top: 163px;
-    left: 266px;
-    border-radius: 50%;
-    background-color: #35321b;
-    width: 134px;
-    height: 134px;
-    transform: rotate(180deg);
-    transform-origin: 0 0;
-}
-
-.groupChild9{
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 13px 83px 83px 13px;
-    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
-    -webkit-backdrop-filter: blur(46px);
-    backdrop-filter: blur(46px);
-    width: 276px;
-    height: 178px;
-}
-.groupChild8{
-    position: absolute;
-    top: 20px;
-    left: 123px;
-    border-radius: 50%;
-    background-color: #351b2f;
-    width: 134px;
-    height: 134px;
-
-}
-
-
-
-.groupChild10{
-    position: absolute;
-    top: 161px;
-    left: 265px;
-    border-radius: 50%;
-    background-color: #35321b;
-    width: 134px;
-    height: 134px;
-    transform: rotate(180deg);
-    transform-origin: 0 0;
-}
-
-
-.joinOurCommunityParent{
-    position: absolute;
-    bottom: 677px;
-    left: 9px;
-    width: 389px;
-    height: 315px;
-    text-align: center;
-}
-.diveIntoA1{
-    position: absolute;
-    bottom: 101px;
-    left: 0px;
-    font-size: 18px;
-    padding: 0 20px;
-    letter-spacing: -0.02em;
-    line-height: 30px;
-    color: #fff;
-    display: inline-block;
-    width: 389px;
-}
-
-.rectangleParent{
-    position: absolute;
-    bottom: 0px;
-    left: -5px;
-    width: 430px;
-    height: 578px;
-    text-align: center;
-    font-size: 20px;
-    color: #fff;
-}
-
-
-
-}
-@media (min-width: 445px) and (max-width: 460px){
+@media (min-width: 300px) and (max-width: 327px){
     .aboutParent{
         position: inherit;
         top: 30px;
@@ -1725,7 +1600,7 @@
     .aboutUs{
         position: absolute;
         top: 208px;
-        left: calc(51% - 196px);
+        left: calc(70% - 196px);
         font-size: 37px;
         text-transform: capitalize;
         font-family: 'Monument Extended';
@@ -1734,19 +1609,23 @@
         -webkit-text-fill-color: transparent;
         display: inline-block;
         width: 334px;
+    
     }
     .blankLine{
-        
-        padding-right: 41px;
+        padding-right: 85px;
+    font-size: 15px;
+
+       
     }
     .roadMap{
         position: absolute;
-    top: 682px;
-    left: calc(52% - 196px);
-    text-transform: capitalize;
-    font-weight: 500;
-    display: inline-block;
-    width: 334px;
+        top: 682px;
+        left: calc(67% - 196px);
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
     
     }
     .loremIpsumDolorContainer2{
@@ -1762,25 +1641,25 @@
     }
     .rectangleDiv{
         position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 11px 83px 83px 11px;
-    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
-    -webkit-backdrop-filter: blur(46px);
-    backdrop-filter: blur(46px);
-    width: 280px;
-    height: 178px;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
     }
     .groupChild7{
         position: absolute;
-    top: 186px;
-    left: 280px;
+    top: 666px;
+    left: 326px;
     border-radius: 83px 13px 13px 83px;
     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
     -webkit-backdrop-filter: blur(46px);
     backdrop-filter: blur(46px);
-    width: 280px;
-    height: 178px;
+    width: 367px;
+    height: 399px;
     transform: rotate(180deg);
     transform-origin: 0 0;
     }
@@ -1798,7 +1677,7 @@
 
 .groupChild6{
     position: absolute;
-    top: 163px;
+    top: 466px;
     left: 266px;
     border-radius: 50%;
     background-color: #35321b;
@@ -1810,18 +1689,19 @@
 
 .groupChild9{
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 928px;
+    left: -36px;
     border-radius: 13px 83px 83px 13px;
     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
     -webkit-backdrop-filter: blur(46px);
     backdrop-filter: blur(46px);
-    width: 276px;
-    height: 178px;
+    width: 365px;
+    height: 412px;
+
 }
 .groupChild8{
     position: absolute;
-    top: 20px;
+    top: 578px;
     left: 123px;
     border-radius: 50%;
     background-color: #351b2f;
@@ -1840,6 +1720,7 @@
     background-color: #35321b;
     width: 134px;
     height: 134px;
+    display: none;
     transform: rotate(180deg);
     transform-origin: 0 0;
 }
@@ -1847,20 +1728,294 @@
 
 .joinOurCommunityParent{
     
-        position: absolute;
+    position: absolute;
     bottom: 677px;
-    left: 20px;
+    left: -32px;
     width: 389px;
     height: 315px;
     text-align: center;
    
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    left: 123px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    left: -15px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    left: -10px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
 }
 .diveIntoA1{
     position: absolute;
     bottom: 101px;
     left: 0px;
     font-size: 18px;
-    padding: 0 20px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+}
+
+
+
+
+
+@media (min-width: 328px) and (max-width: 350px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+        top: 208px;
+        left: calc(70% - 196px);
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: 'Monument Extended';
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        display: inline-block;
+        width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        left: calc(67% - 196px);
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    left: -32px;
+    width: 389px;
+    height: 315px;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    left: 123px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    left: -15px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    left: -10px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
     letter-spacing: -0.02em;
     line-height: 30px;
     color: #fff;
@@ -1884,6 +2039,239 @@
 }
 
 
+@media (min-width: 351px) and (max-width: 360px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+    left: calc(61% - 196px);
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        left: calc(61% - 196px);
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    left: -32px;
+    width: 389px;
+    height: 315px;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    left: 123px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    left: -15px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    left: -10px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+
+
 @media (min-width: 354px) and (max-width: 454px){
  .loremIpsumDolorContainer2{
     position: absolute;
@@ -1899,3 +2287,1871 @@
  }
 }
 
+@media (min-width: 361px) and (max-width: 380px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+    left: calc(61% - 196px);
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        left: calc(61% - 196px);
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    left: -13px;
+    width: 389px;
+    height: 315px;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    left: 139px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    left: 1px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    left: 6px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+@media (min-width: 381px) and (max-width: 400px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+    left: calc(61% - 196px);
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        left: calc(61% - 196px);
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    height: 315px;
+    left: auto;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+@media (min-width: 401px) and (max-width: 430px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+    left: calc(61% - 196px);
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        left: calc(61% - 196px);
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    height: 315px;
+    
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+@media (min-width: 431px) and (max-width: 450px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+   
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    height: 315px;
+    
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    opacity: 0.5;
+
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: end;
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+@media (min-width: 451px) and (max-width: 460px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 467px;
+    height: 578px;
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+   
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    height: 315px;
+    
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    opacity: 0.5;
+
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: end;
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+   }
+}
+
+
+@media (min-width: 461px) and (max-width: 480px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 540px;
+        height: 578px;
+    
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+   
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    margin: 0 17px;
+    height: 315px;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    opacity: 0.5;
+
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: inherit;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: end;
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+
+
+@media (min-width: 481px) and (max-width: 533px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        background-color: #141315;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+        width: 540px;
+        height: 578px;
+    
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+   
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        
+        text-transform: capitalize;
+        font-weight: 500;
+        display: inline-block;
+        width: 334px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    margin: 0 33px;
+    height: 315px;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    margin: 0 16px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    margin: 0 0 0 33px;
+    opacity: 0.5;
+
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: inherit;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    margin: 0 30px;
+    text-align: end;
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}
+
+
+@media (min-width: 534px) and (max-width: 600px){
+    .aboutParent{
+        position: inherit;
+        top: 30px;
+        left: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 17px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    .groupInner{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 640px;
+    height: 578px;
+    
+    }
+   
+    .aboutUs{
+        position: absolute;
+    top: 208px;
+    left: 0;
+    padding: 0 0 0 10px;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: 'Monument Extended';
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: 334px;
+    
+    }
+    .blankLine{
+        padding-right: 85px;
+    font-size: 15px;
+
+       
+    }
+    .roadMap{
+        position: absolute;
+        top: 682px;
+        text-transform: capitalize;
+        font-weight: 500;
+        left: 0;
+        display: inline-block;
+        width: 334px;
+        padding: 0 0 0 18px;
+    
+    
+    }
+    .loremIpsumDolorContainer2{
+        position: absolute;
+    bottom: 1188px;
+    left: 19px;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 392px;
+    }
+    .rectangleDiv{
+        position: absolute;
+        top: 0px;
+        left: -43px;
+        border-radius: 11px 83px 83px 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 374px;
+        height: 465px;
+    }
+    .groupChild7{
+        position: absolute;
+    top: 666px;
+    left: 326px;
+    border-radius: 83px 13px 13px 83px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 367px;
+    height: 399px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    }
+
+
+.groupChild5{
+    position: absolute;
+    top: 23px;
+    left: 131px;
+    border-radius: 50%;
+    background-color: #1b3530;
+    width: 134px;
+    height: 134px;
+}
+
+.groupChild6{
+    position: absolute;
+    top: 466px;
+    left: 266px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupChild9{
+    position: absolute;
+    top: 928px;
+    left: -36px;
+    border-radius: 13px 83px 83px 13px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 365px;
+    height: 412px;
+
+}
+.groupChild8{
+    position: absolute;
+    top: 578px;
+    left: 123px;
+    border-radius: 50%;
+    background-color: #351b2f;
+    width: 134px;
+    height: 134px;
+
+}
+
+
+
+.groupChild10{
+    position: absolute;
+    top: 161px;
+    left: 265px;
+    border-radius: 50%;
+    background-color: #35321b;
+    width: 134px;
+    height: 134px;
+    display: none;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+
+.joinOurCommunityParent{
+    
+    position: absolute;
+    bottom: 677px;
+    width: 389px;
+    margin: 0 50px;
+    height: 315px;
+    text-align: center;
+   
+}
+.vectorContainer{
+    position: absolute;
+    top: 1116px;
+    left: -9px;
+    width: 397px;
+    height: 841px;
+    font-size: 22px;
+    color: #000;
+}
+.maskGroupIcon3{
+    position: absolute;
+    bottom: 392px;
+    width: 113.76px;
+    margin: 0 16px;
+    height: 105px;
+    left: 211px;
+    -o-object-fit: cover;
+    object-fit: cover;
+
+
+}
+.copyRight20231{
+    position: absolute;
+    bottom: 0px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: auto;
+    margin: 0 0 0 124px;
+    opacity: 0.5;
+
+    
+}
+.tradeParent{
+    position: absolute;
+    bottom: 293px;
+    width: inherit;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    margin: 0 49px;
+    text-align: end;
+
+   
+}
+.diveIntoA1{
+    position: absolute;
+    bottom: 101px;
+    left: 0px;
+    font-size: 18px;
+    padding: 0 46px;
+    letter-spacing: -0.02em;
+    line-height: 30px;
+    color: #fff;
+    display: inline-block;
+    width: 389px;
+}
+
+.rectangleParent{
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+}

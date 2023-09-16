@@ -91,12 +91,12 @@ const ProfileIPadPro1294:NextPage = () => {
             						<div className={styles.mediaInquiresFor1}>Copy Right 2023 - CMax. All Rights Reserved</div>
           					</div>
           					<div className={styles.tradeParent}>
-            						<div className={styles.home}>Trade</div>
-            						<div className={styles.home}>Stake</div>
-            						<div className={styles.home}>About</div>
-            						<div className={styles.home}>Contact Us</div>
-            						<div className={styles.home}>Privacy Policy</div>
-            						<div className={styles.home}>{`Terms & Conditions`}</div>
+            						<div  style={fourthFont.style}   className={styles.home}><a href='/trade'>Trade</a></div>
+            						<div  style={fourthFont.style}   className={styles.home}><a href='/stake'>Stake</a></div>
+            						<div style={fourthFont.style}    className={styles.home}><a href='/about'>About</a></div>
+            						<div style={fourthFont.style}    className={styles.home}><a href='/profile'>Profile</a></div>
+            						<div style={fourthFont.style}   className={styles.home}>Privacy Policy</div>
+            						<div style={fourthFont.style}  className={styles.home}>{`Terms & Conditions`}</div>
           					</div>
         				</div>
       			</div>

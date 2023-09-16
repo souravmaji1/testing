@@ -21,6 +21,7 @@ import { polygonMumbai, polygon, mainnet } from "wagmi/chains";
 import { Magic } from "magic-sdk";
 import { MagicLink } from "@thirdweb-dev/wallets";
 
+import './i18n';
 
 const chains = [ polygonMumbai, polygon, mainnet ];
 

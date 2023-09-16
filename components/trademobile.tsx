@@ -104,13 +104,14 @@ const TradeIPadPro1292:NextPage = () => {
           					<div className={styles.copyRight20231}>Copy Right 2023 - CMax. All Rights Reserved</div>
         				</div>
         				<div className={styles.tradeParent}>
-          					<div className={styles.trade}>Trade</div>
-          					<div className={styles.trade}>Stake</div>
-          					<div className={styles.trade}>About</div>
+          					<div style={fourthFont.style}  className={styles.trade}><a href='/trade'>Trade</a></div>
+          					<div style={fourthFont.style}  className={styles.trade}><a href='/stake'>Stake</a></div>
+          					<div style={fourthFont.style}  className={styles.trade}><a href='/about'>About</a>  </div>
           				
-          					<div className={styles.trade}>{`Terms & Conditions`}</div>
+          					<div style={fourthFont.style}  className={styles.trade}><a href='/profile'>Profile</a></div>
         				</div>
       			</div>
+				  <Link href="/mint">
       			<div className={styles.rectangleGroup} onClick={onGroupContainer6Click} >
 					
 					        				<div className={styles.rectangleDiv} />
@@ -118,7 +119,7 @@ const TradeIPadPro1292:NextPage = () => {
         				
         				<Image className={styles.frameIcon} alt="" src={Frameg} />
       			</div>
-      			
+      			</Link>
       			<div className={styles.tradeGroup} onClick={openMenuIPadPro1291}>
         				<div className={styles.div}>Trade</div>
         				<Image className={styles.rimenuFillIcon1} alt="" src={Navbs} />

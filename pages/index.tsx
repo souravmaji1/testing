@@ -45,13 +45,14 @@ const secondFont = localFont({src: "../public/font/MonumentExtended-FreeForPerso
 const thirdFont = localFont({src: "../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Medium.otf"});
 const fourthFont = localFont({src: "../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Regular.otf"});
 
-
-
-
+import { useTranslation } from 'react-i18next';
+import i18n from './i18n';
+import { Trans } from 'react-i18next';
 
 const HomepageBlack:NextPage = () => {
 
-	
+	const { t, i18n } = useTranslation();
+
 	  
     
   	const onTradeText1Click = useCallback(() => {
@@ -122,6 +123,7 @@ const HomepageBlack:NextPage = () => {
       			<div className={styles.homepageBlackChild6} />
       			<Image className={styles.homepageBlackChild7} alt="" src={Circles} /> 
       			<div className={styles.rwfa}>RWFA</div>
+				
       			<div style={fourthFont.style} className={styles.unveilingANew1}> Discover the power of tokenization </div>
       			<div style={myFont.style} className={styles.discoverTheRwfa}>Explore new tokenized digital assets as : Fiscal Credit, ETFs and more...  </div>
       			<img className={styles.homepageBlackChild8} alt="" src="Group 7.svg" />

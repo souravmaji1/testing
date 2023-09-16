@@ -588,3 +588,752 @@
     font-family: 'Neue Montreal';
 }
 
+@media (min-width: 601px) and (max-width: 632px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 11px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 582.14px;
+        height: 692px;
+    }
+    .swapMintburn2{
+        position: absolute;
+    top: 1012px;
+    left: 123.77px;
+    width: 364px;
+    height: 692px;
+    overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -54px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+
+@media (min-width: 633px) and (max-width: 660px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 11px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 636.14px;
+        height: 692px;
+    
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 152.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -54px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+@media (min-width: 661px) and (max-width: 700px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 11px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 669.14px;
+        height: 692px;
+    }
+    .homeParent{
+        position: absolute;
+    top: 60px;
+    left: 166px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 26px;
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+        top: 49px;
+        left: 453.5px;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #ffe500, #fff492);
+        -webkit-backdrop-filter: blur(12px);
+        backdrop-filter: blur(12px);
+        display: flex;
+        flex-direction: row;
+        padding: 9px 16px;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 14px;
+        color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 152.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -15px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+
+@media (min-width: 701px) and (max-width: 756px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 18px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 717.14px;
+        height: 692px;
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+    top: 49px;
+    left: 529.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 191.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -15px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+@media (min-width: 757px) and (max-width: 800px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 18px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 744.14px;
+        height: 692px;
+    
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+    top: 49px;
+    left: 529.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 191.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: -15px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+@media (min-width: 801px) and (max-width: 850px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 18px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 744.14px;
+        height: 692px;
+    
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+    top: 49px;
+    left: 529.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 191.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 33px;
+        width: 720px;
+        height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+@media (min-width: 851px) and (max-width: 900px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 18px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 806.14px;
+        height: 692px;
+    
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+    top: 49px;
+    left: 529.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 232.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 61px;
+        width: 720px;
+        height: 249px;
+    
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+
+@media (min-width: 901px) and (max-width: 950px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+    top: 275px;
+    left: 18px;
+    border-radius: 11px;
+    background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+    -webkit-backdrop-filter: blur(46px);
+    backdrop-filter: blur(46px);
+    width: 866.14px;
+    height: 692px;
+    
+    }
+    .frameGroup{
+        position: absolute;
+        top: 902px;
+        left: 97.5px;
+        width: 627px;
+        height: 16px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+    top: 49px;
+    left: 529.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+    top: 1012px;
+    left: 275.77px;
+    width: 364px;
+    height: 692px;
+    overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+        bottom: 51px;
+        left: 106px;
+        width: 720px;
+        height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}
+
+@media (min-width: 951px) and (max-width: 1030px){
+    .tradeSubpageIpadPro129Inner{
+        position: absolute;
+        top: 275px;
+        left: 18px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 951.14px;
+        height: 692px;
+    
+    
+    }
+    .frameGroup{
+        position: absolute;
+        top: 902px;
+        left: 97.5px;
+        width: 702px;
+        height: 16px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .mingcutewallet4FillParent{
+        position: absolute;
+    top: 49px;
+    left: 529.5px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #ffe500, #fff492);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    display: flex;
+    flex-direction: row;
+    padding: 9px 16px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #1f1330;
+    }
+    .swapMintburn2{
+        position: absolute;
+        top: 1012px;
+        left: 325.77px;
+        width: 364px;
+        height: 692px;
+        overflow: hidden;
+    }
+    .maskGroupParent{
+        position: absolute;
+    bottom: 51px;
+    left: 159px;
+    width: 720px;
+    height: 249px;
+
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 88px;
+    left: 182px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 38px;
+    text-align: left;
+
+    }
+    .lineParent{
+        position: absolute;
+    top: 324px;
+    padding: 0 0 0 20px;
+    left: 0;
+    width: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 54px;
+    }
+    .tradeSubpageIpadPro129{
+        position: relative;
+        background: linear-gradient(180deg, #201d26, #1d1b20);
+        width: 100%;
+        height: 2099px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Neue Montreal';
+    }
+}

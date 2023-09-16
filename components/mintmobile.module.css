@@ -981,3 +981,715 @@
     font-size: 20px;
     }
 }
+
+
+@media (min-width: 415px) and (max-width: 450px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    display: flex;
+    align-items: center;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    justify-content: center;
+    margin: auto;
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: inherit;
+    top: 30px;
+    left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+
+@media (min-width: 451px) and (max-width: 480px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 20px;
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: inherit;
+    top: 30px;
+    left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 500px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+    bottom: 293px;
+    left: 58px;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 38px;
+    text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+    bottom: 392px;
+    left: 191px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+    bottom: 0px;
+    left: 53px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 26px;
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: inherit;
+    top: 30px;
+    left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 530px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+        bottom: 293px;
+        left: 78px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+    bottom: 392px;
+    left: 208px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+        bottom: 0px;
+        left: 71px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 43px;
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 526px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: inherit;
+    top: 30px;
+    left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+
+@media (min-width: 531px) and (max-width: 560px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+        bottom: 293px;
+        left: 93px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+        bottom: 392px;
+        left: 228px;
+        width: 113.76px;
+        height: 110px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+        bottom: 0px;
+        left: 84px;
+        text-transform: capitalize;
+        display: inline-block;
+        width: 274px;
+        opacity: 0.5;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+        top: 629px;
+        display: flex;
+        align-items: center;
+        height: 692px;
+        overflow: hidden;
+        font-size: 16px;
+        justify-content: center;
+        margin: 0 0 0 67px;
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 706px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: inherit;
+    top: 30px;
+    left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}
+
+
+@media (min-width: 561px) and (max-width: 600px) {
+    .groupItem{
+        position: absolute;
+        top: 0px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 372px;
+        height: 319px;
+    
+    }
+    .tradeParent{
+        position: absolute;
+        bottom: 293px;
+        left: 109px;
+        width: 375px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 38px;
+        text-align: left;
+    }
+    .maskGroupIcon1{
+        position: absolute;
+    bottom: 392px;
+    left: 244px;
+    width: 113.76px;
+    height: 110px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    }
+    .copyRight20231{
+        position: absolute;
+    bottom: 0px;
+    left: 101px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 274px;
+    opacity: 0.5;
+    
+    }
+    .rectangleGroup{
+        position: sticky;
+    top: 268px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    height: 319px;
+    cursor: pointer;
+    font-size: 10px;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .swapMintburn{
+        position: absolute;
+    top: 629px;
+    display: flex;
+    align-items: center;
+    height: 692px;
+    overflow: hidden;
+    font-size: 16px;
+    justify-content: center;
+    margin: 0 0 0 84px;
+
+    
+    }
+    .groupChild{
+        position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #141315;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.08) inset;
+    width: 706px;
+    height: 578px;
+    }
+    .lineParent{
+        position: absolute;
+        top: 0px;
+        width: 337.26px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 38px;
+
+    }
+    .frameParent1{
+        position: absolute;
+        top: 234px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+    
+
+    }
+    .rectangleParent{
+        position: absolute;
+    bottom: 0px;
+    left: -5px;
+    width: 430px;
+    height: 578px;
+    text-align: center;
+    }
+    .ter033{
+        position: relative;
+    font-size: 22px;
+    right: 30px;
+    line-height: 36px;
+    text-transform: capitalize;
+    }
+    .aboutParent{
+        position: inherit;
+    top: 30px;
+    left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 17px;
+    cursor: pointer;
+    font-size: 20px;
+    }
+}

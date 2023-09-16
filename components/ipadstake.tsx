@@ -129,6 +129,7 @@ const StakeIPadPro1292:NextPage = () => {
         				<div style={fourthFont.style}  className={styles.trade} ><a href='/profile'>Profile</a></div>
       			</div>
 
+
 				  
       			
       			<div className={styles.mingcutewallet4FillParent}>
@@ -153,15 +154,21 @@ const StakeIPadPro1292:NextPage = () => {
             						<div className={styles.mediaInquiresFor1}>Copy Right 2023 - CMax. All Rights Reserved</div>
           					</div>
           					<div className={styles.tradeParent}>
-            						<div className={styles.home}>Trade</div>
-            						<div className={styles.home}>Stake</div>
-            						<div className={styles.home}>About</div>
-            						<div className={styles.home}>Contact Us</div>
-            						<div className={styles.home}>Privacy Policy</div>
-            						<div className={styles.home}>{`Terms & Conditions`}</div>
+            						<div style={fourthFont.style}    className={styles.home}><a href='/trade'>Trade</a></div>
+            						<div style={fourthFont.style}    className={styles.home}><a href='/stake'>Stake</a></div>
+            						<div style={fourthFont.style}    className={styles.home}><a href='/about'>About</a></div>
+            						<div style={fourthFont.style}    className={styles.home}> <a href='/profile'>Profile</a></div>
+            					
           					</div>
         				</div>
       			</div>
+
+				  <div className={styles.mintcmax} >
+                    <Cmax />
+                  </div>
+
+
+
       			<div style={myFont.style}  className={styles.stakingBenefits}>Staking benefits</div>
       			<div style={secondFont.style}  className={styles.stakingInBlockchain1}>Staking in blockchain involves participants, called "stakers" or "validators," locking up their cryptocurrency holdings to support the network.</div>
       			

@@ -75,11 +75,11 @@ const AboutIPadPro1293:NextPage = () => {
           					<div className={styles.copyRight20231}>Copy Right 2023 - CMax. All Rights Reserved</div>
         				</div>
         				<div className={styles.tradeParent}>
-          					<div className={styles.trade}>Trade</div>
-          					<div className={styles.trade}>Stake</div>
-          					<div className={styles.trade}>About</div>
+          					<div className={styles.trade}>< a href='/trade'>Trade</a>  </div>
+          					<div className={styles.trade}>< a href='/trade'>Stake</a>  </div>
+          					<div className={styles.trade}>< a href='/about'>About</a>  </div>
           				
-          					<div className={styles.trade}>{`Terms & Conditions`}</div>
+          					<div className={styles.trade}>< a href='/profile'>Profile</a>  </div>
         				</div>
       			</div>
       			<div className={styles.aboutParent} onClick={openMenuIPadPro1291}>
@@ -110,65 +110,51 @@ const AboutIPadPro1293:NextPage = () => {
       			
       			<div className={styles.vectorContainer}>
         				<img className={styles.groupChild1} alt="" src="Vector 21.svg" />
-        				<div className={styles.ellipseParent}>
-          					<div className={styles.ellipseDiv} />
-          					<div className={styles.div}>1</div>
-        				</div>
-        				<div className={styles.ellipseGroup}>
-          					<div className={styles.groupChild2} />
-          					<div className={styles.div1}>2</div>
-        				</div>
-        				<div className={styles.ellipseContainer}>
-          					<div className={styles.ellipseDiv} />
-          					<div className={styles.div1}>3</div>
-        				</div>
-        				<div className={styles.ellipseParent1}>
-          					<div className={styles.ellipseDiv} />
-          					<div className={styles.div1}>4</div>
-        				</div>
+        			
         				<div className={styles.groupParent2}>
           					<div className={styles.ellipseParent2}>
             						<div className={styles.groupChild5} />
             						<div className={styles.rectangleDiv} />
-            						<div style={myFont.style}     className={styles.q1}>Q1</div>
+            						<div style={myFont.style}     className={styles.q1}>Q3 2023</div>
             						<div className={styles.distributionTokenCbcContainer}>
-              							<p  style={fourthFont.style}  className={styles.blankLine}>distribution token CBC</p>
-              							<p style={fourthFont.style}  className={styles.blankLine}>Portfolio Diversification</p>
-              							<p style={fourthFont.style}  className={styles.blankLine}>Global Transactions</p>
-              							<p  style={fourthFont.style} className={styles.blankLine}>Asset Tokenization</p>
+              							<p  style={fourthFont.style}  className={styles.blankLine}>Launch the beta version of the Coliseum platform, allowing a select group of users to test its functionalities and provide feedback. Start a pre-seed funding round to attract early investors and lay the groundwork for future expansion. Initiate our social media and marketing strategy, crafting a brand image and generating buzz in the crypto and financial communities. Launch the Initial DEX Offering (IDO) for CMAX, providing the public with their first opportunity to acquire the cornerstone token of our ecosystem.    </p>
+              						
+              						
             						</div>
           					</div>
           					<div className={styles.ellipseParent2}>
             						<div className={styles.groupChild6} />
             						<div className={styles.groupChild7} />
-            						<div style={myFont.style}   className={styles.q2}>Q2</div>
+            						<div style={myFont.style}   className={styles.q2}>Q1 2024</div>
             						<div className={styles.distributionTokenCbcContainer1}>
-              							<p style={fourthFont.style}   className={styles.blankLine}>distribution token CBC</p>
-              							<p style={fourthFont.style}  className={styles.blankLine}>Portfolio Diversification</p>
-              							<p style={fourthFont.style}   className={styles.blankLine}>Global Transactions</p>
-              							<p style={fourthFont.style}  className={styles.blankLine}>Asset Tokenization</p>
+              							<p style={fourthFont.style}   className={styles.blankLine}>The official release of the Coliseum mobile application allows users to trade and manage their portfolios on the go.
+
+Organize global roadshows and webinars, educating potential users on the benefits of tokenized assets and our platform.
+
+Initiate partnerships with traditional financial institutions, bridging centralized finance and the decentralized world.   </p>
+              						
             						</div>
           					</div>
           					<div className={styles.ellipseParent4}>
             						<div className={styles.groupChild8} />
             						<div className={styles.groupChild9} />
-            						<div style={myFont.style}   className={styles.q1}>Q3</div>
-            						<div className={styles.distributionTokenCbcContainer}>
-              							<p style={fourthFont.style}   className={styles.blankLine}>distribution token CBC</p>
-              							<p style={fourthFont.style}   className={styles.blankLine}>Portfolio Diversification</p>
-              							<p  style={fourthFont.style}  className={styles.blankLine}>Global Transactions</p>
-              							<p  style={fourthFont.style}  className={styles.blankLine}>Asset Tokenization</p>
+            						<div style={myFont.style}   className={styles.q3}>Q4 2025</div>
+            						<div className={styles.distributionTokenCbcContainers}>
+              							<p style={fourthFont.style}   className={styles.blankLine}>Implement Layer 2 solutions to mitigate potential scalability issues, ensuring swift transactions at lower costs.
+
+Explore the possibility of tokenizing commodities and precious metals, further diversifying our asset offerings.
+
+Open physical offices in key financial hubs worldwide, solidifying our global presence and enhancing user trust.  </p>
+              						
             						</div>
           					</div>
           					<div className={styles.ellipseParent2}>
             						<div className={styles.groupChild10} />
             						<div className={styles.groupChild7} />
-            						<div style={myFont.style}   className={styles.q2}>Q4</div>
+            						<div style={myFont.style}   className={styles.q2}>Q2 2024</div>
             						<div className={styles.distributionTokenCbcContainer3}>
-              							<p style={fourthFont.style}  className={styles.blankLine}>distribution token CBC</p>
-              							<p  style={fourthFont.style}  className={styles.blankLine}>Portfolio Diversification</p>
-              							<p style={fourthFont.style}  className={styles.blankLine}>Global Transactions</p>
-              							<p style={fourthFont.style}  className={styles.blankLine}>Asset Tokenization</p>
+              							<p style={fourthFont.style}  className={styles.blankLine}>Start acquiring global licenses, ensuring the Coliseum platform operates legally in as many countries as possible.Incorporate bonds and Bitcoin into our treasury, solidifying our financial backbone and diversifying our asset base.Begin developing the Coliseum mobile application, focusing on a seamless user experience.  </p>
+              						
             						</div>
           					</div>
         				</div>

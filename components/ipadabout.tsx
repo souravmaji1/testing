@@ -88,12 +88,11 @@ const AboutIPadPro1293:NextPage = () => {
             						<div className={styles.mediaInquiresFor1}>Copy Right 2023 - CMax. All Rights Reserved</div>
           					</div>
           					<div className={styles.tradeParent}>
-            						<div className={styles.home}>Trade</div>
-            						<div className={styles.home}>Stake</div>
-            						<div className={styles.home}>About</div>
-            						<div className={styles.home}>Contact Us</div>
-            						<div className={styles.home}>Privacy Policy</div>
-            						<div className={styles.home}>{`Terms & Conditions`}</div>
+            						<div style={fourthFont.style}   className={styles.home}><a href='/trade'>Trade</a></div>
+            						<div  style={fourthFont.style}  className={styles.home}><a href='/stake'>Stake</a></div>
+            						<div style={fourthFont.style}   className={styles.home}><a href='/about'>About</a></div>
+            						<div  style={fourthFont.style}   className={styles.home}><a href='/profile'>Profile</a></div>
+            						
           					</div>
         				</div>
       			</div>
@@ -139,28 +138,28 @@ const AboutIPadPro1293:NextPage = () => {
         				<div style={myFont.style}  className={styles.q2}>Q2</div>
         				<div  style={myFont.style}  className={styles.q4}>Q4</div>
         				<div className={styles.distributionTokenCbcContainer}>
-          					<p style={thirdFont.style}  className={styles.blankLine}>distribution token CBC</p>
-          					<p style={thirdFont.style}  className={styles.blankLine}>Portfolio Diversification</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Global Transactions</p>
-          					<p  style={thirdFont.style}  className={styles.blankLine}>Asset Tokenization</p>
+          					<p style={thirdFont.style}  className={styles.blankLine}>Launch the beta version of the Coliseum platform, allowing a select group of users to test its functionalities and provide feedback. Start a pre-seed funding round to attract early investors and lay the groundwork for future expansion. Initiate our social media and marketing strategy, crafting a brand image and generating buzz in the crypto and financial communities. Launch the Initial DEX Offering (IDO) for CMAX, providing the public with their first opportunity to acquire the cornerstone token of our ecosystem.    </p>
+          					
         				</div>
         				<div className={styles.distributionTokenCbcContainer1}>
-          					<p style={thirdFont.style}   className={styles.blankLine}>distribution token CBC</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Portfolio Diversification</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Global Transactions</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Asset Tokenization</p>
+          					<p style={thirdFont.style}   className={styles.blankLine}>Implement Layer 2 solutions to mitigate potential scalability issues, ensuring swift transactions at lower costs.
+
+Explore the possibility of tokenizing commodities and precious metals, further diversifying our asset offerings.
+
+Open physical offices in key financial hubs worldwide, solidifying our global presence and enhancing user trust.  </p>
+          					
         				</div>
         				<div className={styles.distributionTokenCbcContainer2}>
-          					<p style={thirdFont.style}   className={styles.blankLine}>distribution token CBC</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Portfolio Diversification</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Global Transactions</p>
-          					<p  style={thirdFont.style} className={styles.blankLine}>Asset Tokenization</p>
+          					<p style={thirdFont.style}   className={styles.blankLine}>The official release of the Coliseum mobile application allows users to trade and manage their portfolios on the go.
+
+Organize global roadshows and webinars, educating potential users on the benefits of tokenized assets and our platform.
+
+Initiate partnerships with traditional financial institutions, bridging centralized finance and the decentralized world.     </p>
+          				
         				</div>
         				<div className={styles.distributionTokenCbcContainer3}>
-          					<p style={thirdFont.style}  className={styles.blankLine}>distribution token CBC</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Portfolio Diversification</p>
-          					<p  style={thirdFont.style} className={styles.blankLine}>Global Transactions</p>
-          					<p style={thirdFont.style}   className={styles.blankLine}>Asset Tokenization</p>
+          					<p style={thirdFont.style}  className={styles.blankLine}>Start acquiring global licenses, ensuring the Coliseum platform operates legally in as many countries as possible.Incorporate bonds and Bitcoin into our treasury, solidifying our financial backbone and diversifying our asset base.Begin developing the Coliseum mobile application, focusing on a seamless user experience.   </p>
+          					
         				</div>
       			</div>
       			

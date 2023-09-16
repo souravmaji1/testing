@@ -44,7 +44,8 @@ import Mobile from '../components/mobile';
 import Ipad from '../components/ipadhome';
 import Btx from '../public/btx.png';
 import { graphql } from 'msw';
-
+import { Download } from '@mui/icons-material';
+import Downloadd from '../public/download.png';
 
 const myFont = localFont({src: "../public/font/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf"});
 const secondFont = localFont({src: "../public/font/MonumentExtended-FreeForPersonalUse/NeueMontreal-Light.otf"});
@@ -139,8 +140,8 @@ const HomeIPadPro1291:NextPage = () => {
             						<div style={secondFont.style}   className={styles.diveIntoThe1}>📥 Dive into the comprehensive details of the Coliseum DApp by downloading our white paper. Gain a deeper understanding of the revolutionary features, innovative functionalities, and the vision that drives our project forward. Stay ahead of the curve and explore the potential that awaits. Download now and embark on a journey of knowledge and innovation. 🚀</div>
           					</div>
           					<div className={styles.mingcutewallet4FillGroup}>
-            						<img className={styles.carbonplayFilledIcon1} alt="" src="mingcute:wallet-4-fill.png" />
-            						<div style={secondFont.style}   className={styles.connectWallet}><a href='https://moodglobalservices.notion.site/Coliseum-White-Paper-fa2c3eb3583b454a8a4d7ad8d4360391?pvs=4'>READ OUR WHITEPAPER</a></div>
+            						<Image className={styles.carbonplayFilledIcon1} alt="" src={Downloadd} />
+            						<div style={thirdFont.style}      className={styles.connectWallet}><a href='https://moodglobalservices.notion.site/Coliseum-White-Paper-fa2c3eb3583b454a8a4d7ad8d4360391?pvs=4'>READ OUR WHITEPAPER</a></div>
           					</div>
         				</div>
         				<div className={styles.rectangleParent}>
@@ -158,7 +159,7 @@ const HomeIPadPro1291:NextPage = () => {
       			<div className={styles.rectangleGroup}>
         				<div className={styles.groupInner} />
         				<div className={styles.groupChild1} />
-        				<img className={styles.carbonplayFilledIcon2} alt="" src="carbon:play-filled.png" />
+
       			</div>
       			<div style={thirdFont.style}  className={styles.treasuryTokens1}>{`Treasury & Tokens Ecosystem`}</div>
       			<div style={secondFont.style}  className={styles.immerseYourselfIn1}>Immerse yourself in a dynamic visual tour showcasing the Coliseum DApp's transformative capabilities, from secure transactions to decentralized empowerment.</div>
@@ -181,10 +182,10 @@ const HomeIPadPro1291:NextPage = () => {
           					</div>
           					<div className={styles.maskGroupParent}>
             						<Image className={styles.maskGroupIcon1} alt="" src={Stats} />
-            						<div style={thirdFont.style}   className={styles.div}>59.000.000,00 €</div>
+            						<div style={thirdFont.style}   className={styles.div}>150.000.000,00 €</div>
             						<div className={styles.div1}>=</div>
             						<div style={thirdFont.style}   className={styles.treasury}>Treasury</div>
-            						<div style={thirdFont.style}   className={styles.rsc}>59.000.000 RSC</div>
+            						<div style={thirdFont.style}   className={styles.rsc}>150.000.000 RSC</div>
           					</div>
         				</div>
         				<div className={styles.benefits}>
@@ -228,12 +229,11 @@ const HomeIPadPro1291:NextPage = () => {
               							<div className={styles.mediaInquiresFor1}>Copy Right 2023 - CMax. All Rights Reserved</div>
             						</div>
             						<div className={styles.tradeParent}>
-              							<div style={secondFont.style}  className={styles.contactUs}>Trade</div>
-              							<div style={secondFont.style}  className={styles.contactUs}>Stake</div>
-              							<div  style={secondFont.style}  className={styles.contactUs}>About</div>
-              							<div className={styles.contactUs}>Contact Us</div>
-              							<div className={styles.contactUs}>Privacy Policy</div>
-              							<div className={styles.contactUs}>{`Terms & Conditions`}</div>
+              							<div     style={secondFont.style}  className={styles.contactUs}><a href='/trade'>Trade</a></div>
+              							<div style={secondFont.style}  className={styles.contactUs}><a href='/stake'>Stake</a> </div>
+              							<div  style={secondFont.style}  className={styles.contactUs}><a href='/about'>About</a></div>
+              							<div className={styles.contactUs}><a href='/profile'>Profile</a></div>
+              							
             						</div>
           					</div>
         				</div>

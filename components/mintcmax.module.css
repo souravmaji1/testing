@@ -265,8 +265,8 @@
 }
 .swapMintburnChild {
     position: absolute;
-    top: 3603px;
-    left: 2px;
+    top: 2963px;
+    left: 517px;
     border-radius: 11px;
     background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
     -webkit-backdrop-filter: blur(46px);
@@ -494,7 +494,7 @@
 .div5 {
     position: absolute;
     top: 246px;
-    left: -81px;
+    left: 40px;
     font-size: 32px;
     font-weight: 500;
 }
@@ -684,11 +684,11 @@
     font-family: 'NeueMontreal-Light';
 }
 
-@media (min-width: 461px) and (max-width: 482px){
+@media (min-width: 461px) and (max-width: 483px){
     .swapMintburnChild{
         position: absolute;
         top: 3645px;
-        left: 37px;
+        left: 52px;
         border-radius: 11px;
         background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
         -webkit-backdrop-filter: blur(46px);
@@ -702,12 +702,35 @@
 
 
 
-@media (min-width: 415px) and (max-width: 662px) {
-  
+@media (min-width: 200px) and (max-width: 299px) {
+    .swapMintburnChild{
+        position: absolute;
+        top: 3645px;
+        left: -33px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 581px;
+      }
       
   }
+  @media (min-width: 300px) and (max-width: 327px) {
+    .swapMintburnChild{
+      position: absolute;
+      top: 3645px;
+      left: -22px;
+      border-radius: 11px;
+      background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+      -webkit-backdrop-filter: blur(46px);
+      backdrop-filter: blur(46px);
+      width: 382px;
+      height: 581px;
+    }
+}
 
-  @media (min-width: 300px) and (max-width: 360px) {
+  @media (min-width: 328px) and (max-width: 360px) {
     .swapMintburnChild{
       position: absolute;
       top: 3645px;
@@ -820,7 +843,7 @@
             height: 581px;
           }
       }
-      @media (min-width: 482px) and (max-width: 490px) {
+      @media (min-width: 484px) and (max-width: 490px) {
         .swapMintburnChild{
             position: absolute;
             top: 3645px;
@@ -836,11 +859,11 @@
     
   
   
-      @media (min-width: 491px) and (max-width: 600px) {
+      @media (min-width: 491px) and (max-width: 510px) {
         .swapMintburnChild{
             position: absolute;
             top: 3645px;
-            left: 16px;
+            left: 56px;
             border-radius: 11px;
             background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
             -webkit-backdrop-filter: blur(46px);
@@ -850,26 +873,180 @@
           }
       }
     
+      @media (min-width: 511px) and (max-width: 530px) {
+        .swapMintburnChild{
+            position: absolute;
+            top: 3645px;
+            left: 66px;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: 382px;
+            height: 581px;
+          }
+      }
+      @media (min-width: 531px) and (max-width: 570px) {
+        .swapMintburnChild{
+            position: absolute;
+            top: 3645px;
+            left: 85px;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: 382px;
+            height: 581px;
+          }
+      }
+      
+      @media (min-width: 571px) and (max-width: 600px) {
+        .swapMintburnChild{
+            position: absolute;
+            top: 3645px;
+            left: 107px;
+            border-radius: 11px;
+            background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+            -webkit-backdrop-filter: blur(46px);
+            backdrop-filter: blur(46px);
+            width: 382px;
+            height: 581px;
+          }
+      }
+  
+      @media (min-width: 601px) and (max-width: 611px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 144px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
+      
+  
+      @media (min-width: 612px) and (max-width: 640px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 155px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
   
+      @media (min-width: 641px) and (max-width: 689px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 170px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
+  
+      @media (min-width: 690px) and (max-width: 740px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 190px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
+      @media (min-width: 741px) and (max-width: 767px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 210px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
+      @media (min-width: 768px) and (max-width: 800px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 230px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
+      @media (min-width: 801px) and (max-width: 900px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 250px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
+      @media (min-width: 901px) and (max-width: 966px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 280px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
-  
-  
-  
-  
-  
-  
-  
+      @media (min-width: 967px) and (max-width: 1056px){
+        .swapMintburnChild{
+            position: absolute;
+        top: 2725px;
+        left: 310px;
+        border-radius: 11px;
+        background: linear-gradient(180deg, rgba(71, 71, 71, 0.52), rgba(40, 39, 41, 0.52));
+        -webkit-backdrop-filter: blur(46px);
+        backdrop-filter: blur(46px);
+        width: 382px;
+        height: 580px;
+          }
+      }
   
   
   

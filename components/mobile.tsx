@@ -193,7 +193,7 @@ const HomeIPadPro1291:NextPage = () => {
           					<div style={thirdFont.style}   className={styles.joinOurCommunity1}>Join our community</div>
           					<div style={secondFont.style}   className={styles.diveIntoA1}>Dive into a thriving hub of shared knowledge and innovation, uniting with us to shape the future of finance through Coliseum DApp. Your participation drives our collective journey toward decentralized excellence.</div>
           					
-							  <div style={{display:'flex',alignItems:"center",justifyContent:'center',marginTop:'290px',gap:'20px'}}>
+							  <div  className={styles.social} style={{display:'flex',alignItems:"center",justifyContent:'center',marginTop:'290px',gap:'20px'}}>
 						    <Image className={styles.groupIte} alt="" src={Github} />
 						     <Image className={styles.groupIte} alt="" src={Twitter} />
 						    <Image className={styles.groupIte} alt="" src={Linkedin} />
