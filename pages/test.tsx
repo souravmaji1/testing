@@ -1,36 +1,24 @@
-import { useState } from "react";
-import PriceView from "./Price";
-import QuoteView from "./Quote";
-import type { PriceResponse } from "./api/types";
-import { useAccount } from "wagmi";
+import React from "react";
+import { useTranslation } from "react-i18next";
+import { Button } from "@mui/material";
 
-
-export default function Home() {
-  const [tradeDirection, setTradeDirection] = useState("sell");
-  const [finalize, setFinalize] = useState(false);
-  const [price, setPrice] = useState<PriceResponse | undefined>();
-  const [quote, setQuote] = useState();
-  const { address } = useAccount();
+function App() {
+  const { t, i18n } = useTranslation();
+  const switchLanguage = (lng: string) => {
+    i18n.changeLanguage(lng);
+  };
 
   return (
-    <main
-      className={`flex min-h-screen flex-col items-center justify-between p-24`}
-    >
-      {finalize && price ? (
-        <QuoteView
-          takerAddress={address}
-          price={price}
-          quote={quote}
-          setQuote={setQuote}
-        />
-      ) : (
-        <PriceView
-          takerAddress={address}
-          price={price}
-          setPrice={setPrice}
-          setFinalize={setFinalize}
-        />
-      )}
-    </main>
+    <div className="App">
+      <h1>{t("hello")}</h1>
+      <br />
+      <div className="flex flex-row items-center justify-between w-screen gap-4"></div>
+      
+      <Button onClick={() => switchLanguage("en")}>English</Button>
+      <Button onClick={() => switchLanguage("fr")}>French</Button>
+      <Button onClick={() => switchLanguage("es")}>Spanish</Button>
+    </div>
   );
 }
+
+export default App;
