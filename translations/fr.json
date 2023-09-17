@@ -1,5 +1,5 @@
 {
-    "content":{
+    "hello": "Bonjour",
     "firsthead": "Découvrez la puissance de la tokenisation",
     "secondhead": "Explorez de nouveaux actifs numériques tokenisés tels que : Crédit fiscal, ETF et plus encore",
     "tradingbutton": "Commencer à trader",
@@ -45,5 +45,4 @@
     "audit": "audit",
     "networth": "valeur nette",
     "holding": "détention"
-    }
     }

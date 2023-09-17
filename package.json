@@ -53,5 +53,13 @@
   "devDependencies": {
     "@types/qs": "^6.9.7",
     "tailwindcss": "^3.3.2"
+  },
+
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false,
+    "net": false,
+    "tls": false
   }
 }
